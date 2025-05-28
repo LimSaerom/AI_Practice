@@ -1,0 +1,7 @@
+/content/gdrive/MyDrive/Custom_YOLO4_0526/dataset/KakaoTalk_20250526_143856497_06.jpg
+/content/gdrive/MyDrive/Custom_YOLO4_0526/dataset/KakaoTalk_20250526_143856497_05.jpg
+/content/gdrive/MyDrive/Custom_YOLO4_0526/dataset/KakaoTalk_20250526_153130181.jpg
+/content/gdrive/MyDrive/Custom_YOLO4_0526/dataset/KakaoTalk_20250526_143856497_24.jpg
+/content/gdrive/MyDrive/Custom_YOLO4_0526/dataset/KakaoTalk_20250526_161117324_04.jpg
+/content/gdrive/MyDrive/Custom_YOLO4_0526/dataset/KakaoTalk_20250526_143856497_12.jpg
+/content/gdrive/MyDrive/Custom_YOLO4_0526/dataset/KakaoTalk_20250526_143856497_21.jpg
